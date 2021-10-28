@@ -2,7 +2,7 @@
 - 💻 I’m interested in web development and python
 - 📖 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web based projects
-- 📫 How to reach me : https://www.instagram.com/tracecea?r=harshal_patil_141
+- 📫 How to reach me : https://www.instagram.com/harshal_patil_141?r=nametag
 
 
 <!---
