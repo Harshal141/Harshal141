@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Harshal141
 - 💻 I’m interested in web development and python
-- 📖 I’m currently learning javascript
+- 📖 I’m currently learning django
 - 💞️ I’m looking to collaborate on web based projects
-- 📫 How to reach me : https://www.instagram.com/harshal_patil_141?r=nametag
+- 📫 How to reach me : harshalmukundapatil@gmail.com
 
 
 <!---
