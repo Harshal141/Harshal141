@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshal141
 - 💻 I’m interested in web development and python
-- 📖 I’m currently learning django
+- 📖 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on web based projects
 - 📫 How to reach me : harshalmukundapatil@gmail.com
 
