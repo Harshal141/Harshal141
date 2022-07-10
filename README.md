@@ -4,13 +4,13 @@
 <a href="https://github.com/Harshal141/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Aitian+2025;Always+Learning&center=true&width=500&height=50"></a>
 <br />
   
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<a href="https://www.linkedin.com/in/harshal-patil-5aa948221/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/abdo_achhoubi" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="harshalmukundapatil@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=Gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/abdo.achhoubi" target="_blank">
+<a href="https://www.instagram.com/harshal_patil_141/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://achhoubiplus.hashnode.dev" target="_blank">
