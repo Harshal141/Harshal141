@@ -20,19 +20,22 @@
 
 <br />
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="hp" /></p>
-
 <br />
+
+> - first 
+- second
+- third
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
-        <p align="center">
+        <p>
           <a href="https://github.com/Harshal141/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal141&langs_count=6&theme=radical&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
-        <p align="center">
+        <p>
           <a href="https://github.com/Harshal141/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Harshal141&show_icons=true&theme=radical&hide_border=true" /><br /><br />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal141&theme=radical&hide_border=true" />
