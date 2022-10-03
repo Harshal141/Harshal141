@@ -69,7 +69,7 @@
 ![](https://img.shields.io/badge/CPP-6195cb?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-7544ca?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/VsCode-777bb3?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/postman-777bb3?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
