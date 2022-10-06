@@ -87,6 +87,7 @@
           </a>
        </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshal141&theme=radical)](https://github.com/Harshal141/github-profile-trophy)
 <!---
 Harshal141/Harshal141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
