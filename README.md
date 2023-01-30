@@ -77,11 +77,11 @@
  <h2> 📊 Github Stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Harshal141/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal141&langs_count=6&theme=radical&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Harshal141/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Harshal141&show_icons=true&theme=radical&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal141&theme=radical&hide_border=true" />
           </a>
