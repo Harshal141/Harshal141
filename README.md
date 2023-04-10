@@ -27,10 +27,10 @@
 <h2> 👀 About Me</h2>
 <br >
 
-- 🔭 I’m currently working with OSS Club
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML Based Projects
-- 💬 Ask me about: Web Dev | Hackathons | Open Source
+- 🔭 I’m currently working as a freelancer.
+- 🌱 I’m currently learning Advanced Backend.
+- 👯 I’m looking to collaborate on ML Based Projects.
+- 💬 Ask me about: Web Dev | Hackathons | Open Source.
 - 📫 How to reach me: harshalmukundapatil@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Anime Lover ⛩️ and Love Drawing 📖
@@ -42,14 +42,14 @@
 <h2> 🖥️ Languages I’m Currently Working On</h2>
 <br>
 
-### 👨‍💻 Web Dev
+### 👨‍💻 Development
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Express-91c642?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Node-91c642?style=for-the-badge&logo=node&logoColor=3c873a)
+![](https://img.shields.io/badge/flutter-2060aa?style=for-the-badge&logo=flutter&logoColor=42A5F5)
 ![](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/HTML-f4470b?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-2060aa?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ![](https://img.shields.io/badge/HTML-f4470b?style=for-the-badge&logo=html5&logoColor=white) -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
