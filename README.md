@@ -1,6 +1,6 @@
 <!-- Head -->
 <div align="center">
-<h2> Hey There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> I am <a href="https://harshal141.github.io/Portfolio141/" target="_blank">Harshal Patil</a></h2>
+<h2> Hey There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> I am <a href="https://harshal141.github.io/Portfolio-2.0/" target="_blank">Harshal Patil</a></h2>
 <a href="https://github.com/Harshal141/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;LAMP+Stack+Developer;Aitian+2025;Always+Learning;Computer+Science+Student&center=true&width=500&height=50"></a>
 <br />
 
