@@ -82,8 +82,7 @@
         </p>
         <p align="center">
           <a href="https://github.com/Harshal141/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Harshal141&show_icons=true&theme=radical&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal141&theme=radical&hide_border=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal141&theme=radical&hide_border=true" />
           </a>
        </p>
 
