@@ -1,92 +1,32 @@
-<!-- Head -->
-<div align="center">
-<h2> Hey There I am <a href="https://harshal141.github.io/Portfolio-2.0/" target="_blank">Harshal Patil</a></h2>
-<a href="https://github.com/Harshal141/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;LAMP+Stack+Developer;Aitian+2025;Always+Learning;Computer+Science+Student&center=true&width=500&height=50"></a>
-<br />
+<h1 align="center">Hi 👋, I'm Harshal Patil</h1>
+<h3 align="center">A Developer</h3>
 
-<a href="https://www.linkedin.com/in/harshal-patil-5aa948221/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="harshalmukundapatil@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=Gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/harshal_patil_141/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/harshalmukundap1" target="_blank">
-<img src=https://img.shields.io/badge/Hackerrank-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hackerrank&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
-</a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal141&label=Profile%20views&color=0e75b6&style=flat" alt="harshal141" /> </p>
 
-<br />
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="hp" /></p>
-<br />
+- 👨‍💻 All of my projects are available at [https://harshal141.github.io/Portfolio-2.0/](https://harshal141.github.io/Portfolio-2.0/)
 
-<!--- Intro --->
+- 📝 I regularly write articles on [https://medium.com/@harshalmukundapatil](https://medium.com/@harshalmukundapatil)
 
-<h2> 👀 About Me</h2>
-<br >
+- 💬 Ask me about **Github Actions, Node, Angular**
 
-- 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Advanced Backend.
-- 👯 I’m looking to collaborate on ML Based Projects.
-- 💬 Ask me about: Web Dev | Hackathons | Open Source.
-- 📫 How to reach me: harshalmukundapatil@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Anime Lover ⛩️ and Love Drawing 📖
+- 📫 How to reach me **harshalmukundapatil@gmail.com**
 
-<br >
+- ⚡ Fun fact **I love reading manga and playing badminton**
 
-<br />
-<!--- Languages --->
-<h2> 🖥️ Languages I’m Currently Working On</h2>
-<br>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### 👨‍💻 Development
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshalmukundapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshalmukundapatil" height="30" width="40" /></a>
+<a href="https://instagram.com/harshal_patil_141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_patil_141" height="30" width="40" /></a>
+<a href="https://medium.com/@harshalmukundapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshalmukundapatil" height="30" width="40" /></a>
+</p>
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Express-91c642?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/Node-91c642?style=for-the-badge&logo=node&logoColor=3c873a)
-![](https://img.shields.io/badge/flutter-2060aa?style=for-the-badge&logo=flutter&logoColor=42A5F5)
-![](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white)
-<!-- ![](https://img.shields.io/badge/HTML-f4470b?style=for-the-badge&logo=html5&logoColor=white) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshal141&show_icons=true&locale=en" alt="harshal141" /></p>
 
-### 🗄️DataBase And Hosting
-
-![](https://img.shields.io/badge/Firebase-f7c52c?style=for-the-badge&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/Mysql-00718b?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDb-001d29?style=for-the-badge&logo=mongodb&logoColor=00e762)
-![](https://img.shields.io/badge/GithubPages-black?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Heroku-615ea1?style=for-the-badge&logo=heroku&logoColor=white)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-### 🖥️ Programming and Frameworks
-
-![](https://img.shields.io/badge/Python-f7c941?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/CPP-6195cb?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-7544ca?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/VsCode-777bb3?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<br>
- <h2> 📊 Github Stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/Harshal141/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal141&langs_count=6&theme=radical&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Harshal141/">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal141&theme=radical&hide_border=true" />
-          </a>
-       </p>
-
-<!---
-Harshal141/Harshal141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal141&" alt="harshal141" /></p>
